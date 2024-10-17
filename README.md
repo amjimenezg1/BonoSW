@@ -36,11 +36,8 @@ Esta página web está estructurada con un diseño adaptable (responsive), por l
 
 Para poder utilizar este proyecto en tu entorno local, sigue los siguientes pasos:
 
-1. Dirígete al siguiente enlace: [github.com](https://github.com/amjimenezg1/BonoSW.git)
-2. Clona el repositorio en tu máquina local usando el siguiente comando en la terminal:
+Dirígete al siguiente enlace y clonelo en donde desee ver el codigo: [github.com](https://github.com/amjimenezg1/BonoSW.git)
 
-   ```bash
-   git clone http://pppepito.com/turepositorio.git
 
 
 
